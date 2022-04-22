@@ -1,0 +1,2 @@
+In each P#.mat, data consists of high-gamma activity from auditory-responsive channels (time x channel x trial).
+info.stimOrder gives individual stimulus numbers; each stimulus's category is located in stimInfo.mat.

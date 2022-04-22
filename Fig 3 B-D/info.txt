@@ -1,0 +1,1 @@
+High-gamma activity for Fig 3 example channels in planum temporale and upper STS (time x trial).

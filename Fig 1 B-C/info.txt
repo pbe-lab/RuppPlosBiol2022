@@ -1,0 +1,1 @@
+CAR-filtered data for Fig 1 example channel in left Heschl's gyrus (time x trial).
